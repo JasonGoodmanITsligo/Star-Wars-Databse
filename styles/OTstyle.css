@@ -1,0 +1,13 @@
+
+body{
+    background-color:#22e639;
+    padding: 30px
+    font-family: verdana;
+}
+img{
+    height: 400px;
+    vertical-align: middle
+}
+P{
+    display: inline-block;
+}
